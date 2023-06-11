@@ -1,0 +1,5 @@
+# **Comando df**
+![comando df](./df.png)
+
+# **Commando top**
+![comando top](./top.png)
