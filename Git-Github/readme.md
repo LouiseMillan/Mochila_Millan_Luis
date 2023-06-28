@@ -1,4 +1,4 @@
-# Cheat Sheet
+# Cheat Sheet (Hoja de trucos)
 
 ## **Ayuda**
 Use este comando para obtener información fácilmente sobre todos los comandos que conoce hasta ahora y más.
